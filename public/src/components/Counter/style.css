@@ -1,0 +1,19 @@
+
+.button{
+    position: relative; 
+    bottom: -40px;
+    width: 5%;
+    height: 5%;
+
+    border: none;
+    background-color: rgba(0, 128, 0, 0.267);
+    border-radius: 50%;
+    transition-duration: 0.4s;
+
+}
+.counter{
+    position: relative;
+    width: 5%;
+    right: 20%;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}

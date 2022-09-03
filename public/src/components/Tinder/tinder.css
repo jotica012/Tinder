@@ -1,0 +1,74 @@
+@font-face {
+    font-family: Gotham;
+    src: url(/public/fonts/Gotham);
+}
+.template{
+    padding:20px;
+    margin: 20px 0px;
+}
+.imgs{
+    display: flex;
+    flex-direction: column;
+}
+.tinder{
+    width: 25%;
+    height: auto;
+
+}
+.bg{
+    width: 35%;
+    height: auto;
+}
+.infoPic{
+    width: 25%;
+    height: 100%;
+}
+.bar{
+    color: rgb(91, 91, 91);
+    width: 25%;
+    height: auto;
+    right: 17.5%;
+   
+}
+.circleBttns{
+width: 80%;
+height: auto;
+right: 15%;
+}
+.homeBttns{
+    width: 1.5%;
+    height: auto;
+    position: fixed;
+    left: 23%;
+}
+
+.LowBttns{
+    width: 25%;
+    height: auto;
+
+}
+.polaroid{
+width: 100%;
+height: auto;
+}
+
+.name{
+    color:rgb(255, 255, 255);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+}
+.occupation{
+    color:rgb(255, 255, 255);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 15px;
+}
+.location{
+    color:rgb(255, 255, 255);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 15px;
+}
+.distance{
+    color:rgb(255, 255, 255);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 15px;
+}
